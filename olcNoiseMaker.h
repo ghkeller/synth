@@ -50,6 +50,8 @@
 
 */
 
+//this is an adaptation for mac use
+
 
 #pragma once
 
